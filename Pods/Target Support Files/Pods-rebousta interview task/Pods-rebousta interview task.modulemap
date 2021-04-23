@@ -1,0 +1,6 @@
+framework module Pods_rebousta_interview_task {
+  umbrella header "Pods-rebousta interview task-umbrella.h"
+
+  export *
+  module * { export * }
+}
